@@ -19,19 +19,6 @@ import './assets/vendor/aos/aos.js'
 import './assets/vendor/owlcarousel/owl.carousel.js'
 // import './assets/js/main.js'
 
-// <!-- Vendor JS Files -->
-// <script src="vendor/jquery/jquery.min.js"></script>
-//   <script src="vendor/jquery/jquery-migrate.min.js"></script>
-//   <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-//   <script src="vendor/easing/easing.min.js"></script>
-//
-//   <script src="vendor/isotope/isotope.pkgd.min.js"></script>
-//   <script src="vendor/aos/aos.js"></script>
-//   <script src="vendor/owlcarousel/owl.carousel.min.js"></script>
-//
-//   <!-- Template Main JS File -->
-//   <script src="js/main.js"></script>
-
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
