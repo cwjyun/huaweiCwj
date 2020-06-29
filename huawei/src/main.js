@@ -17,6 +17,9 @@ import './assets/vendor/jquery/jquery-migrate.min.js'
 // import './assets/vendor/isotope/isotope.pkgd.min.js'
 import './assets/vendor/aos/aos.js'
 import './assets/vendor/owlcarousel/owl.carousel.js'
+
+
+
 // import './assets/js/main.js'
 
 Vue.config.productionTip = false
