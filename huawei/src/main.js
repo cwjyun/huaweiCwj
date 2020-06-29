@@ -20,6 +20,7 @@ import './assets/vendor/owlcarousel/owl.carousel.js'
 
 
 
+
 // import './assets/js/main.js'
 
 Vue.config.productionTip = false
