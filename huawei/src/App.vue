@@ -1,23 +1,17 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+    <blog_head></blog_head>
+      <router-view/>
+    <blog_foot></blog_foot>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'App'
-}
-</script>
+  import blog_head from './components/common/header.vue'
+  import blog_foot from './components/common/foot.vue'
+  export default {
+    name: 'app',
+    components: {blog_head, blog_foot}
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  }
+</script>
