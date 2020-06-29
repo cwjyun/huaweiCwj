@@ -13,7 +13,7 @@ import './assets/css/style.css'
 
 import './assets/vendor/jquery/jquery.min.js'
 import './assets/vendor/jquery/jquery-migrate.min.js'
-import './assets/vendor/easing/easing.min.js'
+// import './assets/vendor/easing/easing.min.js'
 // import './assets/vendor/isotope/isotope.pkgd.min.js'
 import './assets/vendor/aos/aos.js'
 import './assets/vendor/owlcarousel/owl.carousel.js'
