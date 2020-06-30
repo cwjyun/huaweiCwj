@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-    <blog_head></blog_head>
-      <router-view/>
-    <blog_foot></blog_foot>
+    <blog_head/>
+    <router-view v-wechat-title="$route.meta.title" />
+    <router-view/>
+    <blog_foot/>
   </div>
 </template>
 

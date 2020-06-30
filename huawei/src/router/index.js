@@ -10,12 +10,18 @@ export default new Router({
     {
       path: '/',
       name: 'index',
-      component: index
+      component: index,
+      meta: {
+        title: "主页"
+      }
     },
     {
       path: '/index',
-        name: 'index',
-      component: index
+      name: 'index',
+      component: index,
+      meta: {
+        title: "主页"
+      }
     }
   ]
 })

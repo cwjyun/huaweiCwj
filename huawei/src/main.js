@@ -13,6 +13,8 @@ import './assets/vendor/owlcarousel/assets/owl.carousel.min.css'
 import './assets/css/style.css'
 
 
+import VueWechatTitle from "vue-wechat-title";
+Vue.use(VueWechatTitle);
 
 
 // import './assets/js/main.js'
