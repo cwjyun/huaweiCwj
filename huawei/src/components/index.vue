@@ -11,17 +11,17 @@
             </div>
             <div class="col-md-12 col-lg-6 text-left text-lg-right">
               <div id="filters" class="filters">
-                <a href="#" data-filter="*" class="active">cwjyun</a>
-                <a href="#" data-filter=".web">cwjyun</a>
-                <a href="#" data-filter=".design">cwjyun</a>
-                <a href="#" data-filter=".branding">cwjyun</a>
-                <a href="#" data-filter=".photography">cwjyun</a>
+                <a href="javascript:;" data-filter="*" class="active">cwjyun</a>
+                <a href="javascript:;" data-filter=".web">cwjyun</a>
+                <a href="javascript:;" data-filter=".design">cwjyun</a>
+                <a href="javascript:;" data-filter=".branding">cwjyun</a>
+                <a href="javascript:;" data-filter=".photography">cwjyun</a>
               </div>
             </div>
           </div>
           <div id="portfolio-grid" class="row no-gutter">
             <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Boxed Water</h3>
                   <span>Web</span>
@@ -30,7 +30,7 @@
               </a>
             </div>
             <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Build Indoo</h3>
                   <span>Photography</span>
@@ -39,7 +39,7 @@
               </a>
             </div>
             <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Cocooil</h3>
                   <span>Branding</span>
@@ -48,7 +48,7 @@
               </a>
             </div>
             <div class="item design col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Nike Shoe</h3>
                   <span>Design</span>
@@ -57,7 +57,7 @@
               </a>
             </div>
             <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Kitchen Sink</h3>
                   <span>Photography</span>
@@ -66,7 +66,7 @@
               </a>
             </div>
             <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
-              <a href="work-single.html" class="item-wrap fancybox">
+              <a href="javascript:;" class="item-wrap fancybox">
                 <div class="work-info">
                   <h3>Amazon</h3>
                   <span>brandingn</span>
@@ -88,22 +88,22 @@
           </div>
           <div class="row">
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-adobe.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-adobe.png" alt="Image" class="img-fluid"></a>
             </div>
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-uber.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-uber.png" alt="Image" class="img-fluid"></a>
             </div>
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-apple.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-apple.png" alt="Image" class="img-fluid"></a>
             </div>
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-netflix.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-netflix.png" alt="Image" class="img-fluid"></a>
             </div>
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-nike.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-nike.png" alt="Image" class="img-fluid"></a>
             </div>
             <div class="col-4 col-sm-4 col-md-2">
-              <a href="#" class="client-logo"><img src="../assets/img/logo-google.png" alt="Image" class="img-fluid"></a>
+              <a href="javascript:;" class="client-logo"><img src="../assets/img/logo-google.png" alt="Image" class="img-fluid"></a>
             </div>
 
           </div>

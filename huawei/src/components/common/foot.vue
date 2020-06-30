@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-          <p class="mb-1">Copyright &copy; 2020.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+          <p class="mb-1">Copyright &copy; 2020.Company name All rights reserved.<a href="javascript:;">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
           <div class="credits">
 
           </div>
