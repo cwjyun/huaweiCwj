@@ -1,25 +1,25 @@
 <template>
-  <div class="home">
+  <div class="indexs">
     <main id="main">
 
       <div class="site-section site-portfolio">
         <div class="container">
           <div class="row mb-5 align-items-center">
-            <div class="col-md-12 col-lg-6 mb-4 mb-lg-0" data-aos="fade-up">
-              <h2>Hey, I'm Johan Stanworth</h2>
-              <p class="mb-0">Freelance Creative &amp; Professional Graphics Designer</p>
+            <div class="col-md-12 col-lg-6 mb-4 mb-lg-0">
+              <h2>大家好,我是砧板</h2>
+              <p class="mb-0">都是鱼肉 &amp; 无非砧板不同罢了</p>
             </div>
-            <div class="col-md-12 col-lg-6 text-left text-lg-right" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-md-12 col-lg-6 text-left text-lg-right">
               <div id="filters" class="filters">
-                <a href="#" data-filter="*" class="active">All</a>
-                <a href="#" data-filter=".web">Web</a>
-                <a href="#" data-filter=".design">Design</a>
-                <a href="#" data-filter=".branding">Branding</a>
-                <a href="#" data-filter=".photography">Photography</a>
+                <a href="#" data-filter="*" class="active">cwjyun</a>
+                <a href="#" data-filter=".web">cwjyun</a>
+                <a href="#" data-filter=".design">cwjyun</a>
+                <a href="#" data-filter=".branding">cwjyun</a>
+                <a href="#" data-filter=".photography">cwjyun</a>
               </div>
             </div>
           </div>
-          <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
+          <div id="portfolio-grid" class="row no-gutter">
             <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
               <a href="work-single.html" class="item-wrap fancybox">
                 <div class="work-info">
@@ -212,10 +212,7 @@
 
 <script>
   export default {
-    name: 'home',
-    data() {
-      msg:"xxxxx"
-    }
+
   }
 </script>
 

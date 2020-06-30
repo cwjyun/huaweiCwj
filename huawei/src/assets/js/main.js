@@ -29,7 +29,7 @@
 	      columnWidth: '.col-sm-3'
 	    });
 	  });
-	  
+
 	  $container.isotope({ filter: '*' });
 
 	  $('#filters').on( 'click', 'a', function(e) {
